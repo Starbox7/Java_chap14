@@ -5,7 +5,7 @@ import java.io.*;
 
 public class LineEventEx extends JFrame {
 	private Clip clip;
-	private String song = "E\\Java_Programming\\Java_chap14\\애국가1절.wav";
+	private String song = "E:\\Java_Programming\\Java_chap14\\애국가1절.wav";
 	private JLabel label = new JLabel(song);
 
 	public LineEventEx() {
